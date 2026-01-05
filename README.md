@@ -35,8 +35,14 @@ chmod +x autoWP.sh
 </code>
 </pre>
 
+# 🤝 MEJORAS Y CONTRIBUCIONES 
 
-## 🔐 CONTACTO 
+Este proyecto se encuentra en constante evolución, por lo que se aceptan propuestas de mejora y contribuciones de la comunidad. Si desea sugerir una mejora, reportar un problema o proponer nuevas funcionalidades, puede hacerlo abriendo un "issue" o "pullrequest"
+
+Agredecemos su interés y colaboración para el mantenimiento y mejora continua de este repo
+
+
+# 🔐 CONTACTO 
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wvverez)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wvverez)
