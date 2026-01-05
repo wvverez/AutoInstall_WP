@@ -1,7 +1,7 @@
-# AutoInstall_WP
+# 🧙🏻‍♂️ AutoInstall_WP
 AutoInstall_WP es un script en Bash que contiene una herramienta de automatización diseñada para simplificar la instalación de WordPress en servidores basados en Ubuntu. Este script realiza la configuración completa de un entorno LAMP (Linux,Apache,MySQL,PHP) y configura WordPress de manera eficiente, lo que permite a los usuarios instalar WordPress simplemente ejecutando este script.C
 
-# CARACTERÍSTICAS:
+# 🧩 CARACTERÍSTICAS:
 
 <img width="1156" height="437" alt="image" src="https://github.com/user-attachments/assets/1bea41bd-2077-425e-a95b-4cad63b1ddba" />
 
@@ -16,7 +16,7 @@ AutoInstall_WP es un script en Bash que contiene una herramienta de automatizaci
 </p>
 
 
-# INSTALACIÓN
+# 🔑 INSTALACIÓN
 
 ## 🐉 UBUNTU/KUBUNTU 
 
