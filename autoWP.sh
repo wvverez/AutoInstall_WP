@@ -48,14 +48,15 @@ echo -e "${CYAN}[+] Iniciando instalación LAMP + WordPress...${RESET}\n"
 # Paso 1 Actualización sistema upgradeos y instalar repos
 
 echo -e "${BLUE}[1/9] Actualizando sistema y repositorios...${RESET}"
-add-apt-repository ppa:ondrej/php -y 
-apt update && apt upgrade -y 
+add-apt-repository ppa:ondrej/php -y 2>&1
+apt update && apt upgrade -y 2>&1
 echo -e "${GREEN}[+] Sistema actualizado && upgradeado ${RESET}\n"
 
 # Paso 2 Instalación apache
 
 echo -e "${BLUE}[2/9] Instalando Apache...${RESET}"
 apt install apache2 -y >/dev/null 2>&1
+systemctl start apache2 -y >/dev/null 2>&1
 ufw allow http >/dev/null 2>&1
 ufw allow https >/dev/null 2>&1
 systemctl enable apache2 >/dev/null 2>&1
