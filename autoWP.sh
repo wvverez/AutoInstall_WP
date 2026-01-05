@@ -190,6 +190,6 @@ echo -e "${GREEN}[+] WordPress configurado${RESET}\n"
 echo -e "${RED}=============================================${RESET}"
 echo -e "${GREEN}[+] Instalación completada${RESET}"
 echo -e "${YELLOW}[+] Accede a WordPress:${RESET}"
-echo -e "${YELLOW}    http://localhost/${WP_DIR}${RESET}"
+echo -e "${YELLOW}    http://localhost/wp-admin/install.php${RESET}"
 echo -e "${RED}=============================================${RESET}"
 
