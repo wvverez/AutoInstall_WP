@@ -16,9 +16,7 @@ AutoInstall_WP es un script en Bash que contiene una herramienta de automatizaci
 </p>
 
 
-# 🔑 INSTALACIÓN
-
-## 🐉 UBUNTU/KUBUNTU 
+# 🐉 UBUNTU/KUBUNTU 
 
 <pre>
     <code>
@@ -28,7 +26,7 @@ chmod +x binscrack.sh
 </code>
 </pre>
 
-## 👾 FEDORA / ARCH
+# 👾 FEDORA / ARCH
 <pre>
 <code> 
 git clone https://github.com/wvverez/Binscrack.git
