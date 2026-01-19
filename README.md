@@ -16,19 +16,10 @@ AutoInstall_WP es un script en Bash que contiene una herramienta de automatizaci
 </p>
 
 
-# 🐉 UBUNTU/KUBUNTU 
+# 🐉 MODO DE USO 
 
 <pre>
     <code>
-git clone https://github.com/wvverez/AutoInstall_WP.git
-chmod +x autoWP.sh
-./autoWP.sh
-</code>
-</pre>
-
-# 👾 FEDORA / ARCH
-<pre>
-<code> 
 git clone https://github.com/wvverez/AutoInstall_WP.git
 chmod +x autoWP.sh
 ./autoWP.sh
